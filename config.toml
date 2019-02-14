@@ -1,6 +1,6 @@
 baseurl = "/computational-demography/"
 languageCode = "en-us"
-title = "Strata"
+title = "Computational Demography"
 theme = "hugo-strata-theme"
 disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
@@ -43,9 +43,9 @@ publishDir = "docs"
 		linkedin = ""
 
 		copyright = [
-			"&copy; John Doe",
+			"&copy; CSDE",
 			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
+			"Background Image: [UW Arts & Sciences](//uwartsci.wordpress.com/rainier-vista/)"
 		]
 
 
