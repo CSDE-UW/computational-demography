@@ -63,7 +63,7 @@ That way, you can see changes as you make them. You might need to refresh your w
 
 ```
 baseurl = "/computational-demography/" # all urls should be relative to this. use "/" if it's a base domain
-title = "Computational Demography" # this will show as the site's title in a web browser
+title = "Computational Demography @UW" # this will show as the site's title in a web browser
 ```
 
 We can use the config options to turn off different parts of the main webpage. If you want to get fancy, there are ways to edit the layout templates and rearrange or customize sections.
