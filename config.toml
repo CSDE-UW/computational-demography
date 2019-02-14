@@ -43,7 +43,7 @@ publishDir = "docs"
 		linkedin = ""
 
 		copyright = [
-			"&copy; CSDE",
+			"&copy; [CSDE](//csde.washington.edu)",
 			"Design: [HTML5 UP](//html5up.net)",
 			"Background Image: [UW Arts & Sciences](//uwartsci.wordpress.com/rainier-vista/)"
 		]
@@ -110,17 +110,17 @@ publishDir = "docs"
 
 	[params.contact]
 		hide  = false
-		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		title = "Join Us!"
+		content = "Join the Computational Demography [mailing list](https://mailman12.u.washington.edu/mailman/listinfo/computational-demog) for news and updates."
 
 		# This can be exact coordinates or a searchable address in google maps
-		gmaps_address = "39.7889055,-120.5443524"
+		# gmaps_address = "39.7889055,-120.5443524"
 		address = [
-			"1234 Somewhere Rd.",
-			"Nashville, TN 00000",
-			"United States"
+			"Raitt Hall, Room 114",
+			"University of Washington",
+			"Seattle, WA 98105"
 		]
-		phone = "000-000-0000"
+		# phone = "000-000-0000"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
@@ -133,7 +133,7 @@ publishDir = "docs"
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+		# email = "hello@example.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
@@ -142,6 +142,7 @@ publishDir = "docs"
 			email = "Email"
 			message = "Message"
 			submit = "Send message"
+
 
 
 # Menu links that appear on the left sidebar
