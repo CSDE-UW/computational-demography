@@ -1,0 +1,261 @@
+<!DOCTYPE HTML>
+
+<!-- 
+Strata by HTML5 UP
+html5up.net | @n33co
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Making a Research Website &middot; Strata</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="author" content="Your name">
+		<meta name="description" content="Describe your website">
+		<meta http-equiv="content-language" content="en-us" />
+
+		
+		<meta name="og:site_name" content="Strata">
+		<meta name="og:title" content="Making a Research Website">
+		<meta name="og:url" content="/computational-demography/post/making-a-research-website/">
+		
+		<meta name="og:image" content="/computational-demography/images/avatar.png">
+		
+		
+
+		<meta name="generator" content="Hugo 0.54.0" />
+
+		<!--[if lte IE 8]><script src='/computational-demography/js/ie/html5shiv.js'></script><![endif]-->
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="/computational-demography/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="/computational-demography//css/ie8.css"><![endif]-->
+
+		
+		
+	</head>
+
+	<body id="top">
+		<!-- Header -->
+<header id="header">
+	
+	<a href="/computational-demography/" class="image avatar"><img src="/computational-demography/images/avatar.png" alt="" /></a>
+	
+	
+		<h1><strong>Computational Demography<br> Working Group</strong><br> University of Washington</h1>
+	
+
+	
+		<nav id="sidebar">
+			<ul>
+			
+				<li><a href="/computational-demography/">Home</a></li>
+			
+				<li><a href="/computational-demography/post/">Blog</a></li>
+			
+			</ul>
+		</nav>
+	
+</header>
+
+
+		<!-- Main -->
+		<div id="main">
+			
+	<span>
+		<h1>Making a Research Website</h1>
+
+		<i class="fa fa-calendar"></i>&nbsp;&nbsp;
+<time datetime="2019-02-14 00:00:00 &#43;0000 UTC">2019-02-14</time>&nbsp;&nbsp;
+
+
+
+
+    
+    
+        <i class="fa fa-folder"></i>&nbsp;&nbsp;
+        
+        <a class="article-category-link" href="/computational-demography/categories/tutorial">tutorial</a>
+        
+        
+    
+
+
+
+   
+   
+       &nbsp;&nbsp;<i class="fa fa-tags"></i>&nbsp;&nbsp;
+       
+       <a class="article-category-link" href="/computational-demography/tags/blogdown">blogdown</a>
+       &middot;
+       
+       <a class="article-category-link" href="/computational-demography/tags/github">GitHub</a>
+       
+       
+   
+
+
+	</span>
+
+	<p>
+	    
+
+<h2 id="why-make-a-website">Why make a website?</h2>
+
+<p>Academic researchers need to communicate their work!<br />
+Several kinds of websites can be useful for this:</p>
+
+<ul>
+<li>a personal academic homepage</li>
+<li>a page for a specific research project</li>
+<li>a website for a course</li>
+<li>a website for a working group or seminar (like CDWG!)</li>
+</ul>
+
+<h2 id="key-ideas">Key ideas</h2>
+
+<p>You can make a website without knowing much or any html/css; there are tools that let you do a lot in plain text and R instead.</p>
+
+<p>You don&rsquo;t have to use a blogging platform like Wordpress or paid platforms like Squarespace either. Simple websites, or entire blogs, can be created with <em>static site generators</em>. The one blogdown uses is called <a href="https://gohugo.io/">Hugo</a>. There are others, like Jekyll (in Ruby) and Pelican (in Python), but we&rsquo;ll stick with Hugo.</p>
+
+<p>Once you&rsquo;ve generated your site on your computer, you then need to host the html files on a server somewhere. If you&rsquo;re keeping the site code on GitHub, the files are already there, so you just have to turn on GitHub Pages for your repository.</p>
+
+<h2 id="plan">Plan</h2>
+
+<ul>
+<li>Make a CDWG website in blogdown</li>
+<li>Host it on GitHub Pages</li>
+</ul>
+
+<h2 id="make-a-website">Make a website</h2>
+
+<p>Install the blogdown package in R; let it install Hugo if you don&rsquo;t have it already:</p>
+
+<pre><code>install.packages(&quot;blogdown&quot;)
+</code></pre>
+
+<p>Then create a new R project. You can create this project <em>as</em> a blogdown website (scroll down to see the option), or you can set up the site from the console:</p>
+
+<pre><code>blogdown::new_site(theme = &quot;digitalcraftsman/hugo-strata-theme&quot;)
+</code></pre>
+
+<p>We&rsquo;ll use the <a href="https://themes.gohugo.io/strata/">Strata theme</a> for CDWG. For a personal page, I&rsquo;d recommend <a href="https://themes.gohugo.io/academic/">Academic</a> or <a href="https://themes.gohugo.io/finite/">Finite</a>. (Don&rsquo;t do what I did and pick a random theme that looks pretty and try to hack it for your own purposes&hellip;)</p>
+
+<p>Open up config.toml; every theme will have different config options (that&rsquo;s the sad part). Change things like the bio, social media handles, and contact info.</p>
+
+<p>Also update the avatar (avatar.jpg) and background image (bg.jpg). These go in <code>static/images</code>.</p>
+
+<p>Use the &ldquo;Serve Site&rdquo; RStudio addin to preview the site! Or run in the console:</p>
+
+<pre><code>blogdown::serve_site()
+</code></pre>
+
+<p>We can use the config options to turn off different parts of the main webpage. If you want to get fancy, there are ways to edit the layout templates and rearrange or customize sections.</p>
+
+<p>Before we&rsquo;re done, we&rsquo;ll want to clean up the example blog posts. I also find it helpful sometimes to just delete the <code>public</code> folder and regenerate it (with <code>serve_site</code> or <code>build_site</code>). Finally, so it plays nicely with GitHub, we actually need to rename the <code>public</code> folder. To do this, in config.toml:</p>
+
+<pre><code>publishDir = &quot;docs&quot;
+</code></pre>
+
+<h2 id="host-the-website">Host the website</h2>
+
+<p>First, we need to make the project directory into a git repo and commit everything. The most important thing is the <code>docs</code> folder; this is where the generated static html files live.</p>
+
+<p>Then we go to GitHub and create a corresponding repository there. We link up our local repo and push the files up to GitHub.</p>
+
+<p>At the GitHub repo, we go to Settings and down to GitHub Pages. We turn on Pages and point it to the <code>docs</code> folder. Wait a few minutes, and the website should go live.</p>
+
+<p>Now we go to <a href="https://csde-uw.github.io/computational-demography">https://csde-uw.github.io/computational-demography</a>. Et voilà!</p>
+
+<p>Side note: it&rsquo;s a good idea to tell GitHub pages that this <em>isn&rsquo;t</em> a Jekyll website. How? By creating a blank file called .nojekyll in the website folder:</p>
+
+<pre><code>cd docs
+touch .nojekyll
+git add .nojekyll
+git commit -m &quot;We're using Hugo, not Jekyll, as our static site generator&quot;
+git push
+</code></pre>
+
+<h2 id="examples">Examples</h2>
+
+<p><br>
+My personal academic website:</p>
+
+<ul>
+<li><a href="https://students.washington.edu/cgilroy/">https://students.washington.edu/cgilroy/</a></li>
+<li>source: <a href="https://github.com/ccgilroy/ccgilroy">https://github.com/ccgilroy/ccgilroy</a></li>
+<li>made with <a href="https://bookdown.org/yihui/blogdown/">blogdown</a>; hosted on <a href="https://itconnect.uw.edu/connect/web-publishing/shared-hosting/">UW servers</a></li>
+</ul>
+
+<p>My comprehensive exam reading list:</p>
+
+<ul>
+<li><a href="https://ccgilroy.github.io/gilroy-reading-list/">https://ccgilroy.github.io/gilroy-reading-list/</a></li>
+<li>source: <a href="https://github.com/ccgilroy/gilroy-reading-list">https://github.com/ccgilroy/gilroy-reading-list</a></li>
+<li>made with <a href="https://bookdown.org/">bookdown</a>; hosted on <a href="https://pages.github.com/">GitHub Pages</a>.</li>
+</ul>
+
+<p>GeoHackWeek 2019:</p>
+
+<ul>
+<li><a href="https://geohackweek.github.io/">https://geohackweek.github.io/</a></li>
+<li>source: <a href="https://github.com/geohackweek/geohackweek.github.io">https://github.com/geohackweek/geohackweek.github.io</a></li>
+<li>made with Jekyll, hosted on GitHub Pages.</li>
+</ul>
+
+<h2 id="resources">Resources</h2>
+
+<p>Blogdown &ldquo;tweetorial&rdquo; by Dan Quintana: <a href="https://twitter.com/dsquintana/status/993410504570888192">https://twitter.com/dsquintana/status/993410504570888192</a><br />
+Kieran Healy on Hugo: <a href="https://kieranhealy.org/blog/archives/2014/02/24/powered-by-hugo/">https://kieranhealy.org/blog/archives/2014/02/24/powered-by-hugo/</a></p>
+
+	</p>
+
+	
+
+		</div>
+
+		<!-- Footer -->
+<footer id="footer">
+	<ul class="icons">
+		
+		
+		
+		
+		<li><a href="//github.com/CSDE-UW" target="_blank" class="icon fa-github"><span class="label">GitHub</span></a></li>
+		
+		
+		
+		
+		
+		
+		<li><a href="/computational-demography/#contact-form" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+		
+		
+		<li><a href="/computational-demography/index.xml" class="icon fa-rss" type="application/rss+xml"><span class="label">RSS</span></a></li>
+		
+	</ul>
+
+	<ul class="copyright">
+		
+		<li>&copy; John Doe</li>
+		
+		<li>Design: <a href="//html5up.net">HTML5 UP</a></li>
+		
+		<li>Demo Images: <a href="//unsplash.com/">Unsplash</a></li>
+		
+	</ul>
+</footer>
+
+<!-- Scripts -->
+<script src="/computational-demography/js/jquery.min.js"></script>
+<script src="/computational-demography/js/jquery.poptrox.min.js"></script>
+<script src="/computational-demography/js/skel.min.js"></script>
+<script src="/computational-demography/js/util.js"></script>
+
+<script src="/computational-demography/js/main.js"></script>
+
+
+
+
+
+	</body>
+</html>
