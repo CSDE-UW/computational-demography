@@ -149,6 +149,12 @@ Several kinds of websites can be useful for this:</p>
 <pre><code>blogdown::serve_site()
 </code></pre>
 
+<p>That way, you can see changes as you make them. You might need to refresh your web browser. Some common &amp; important config options:</p>
+
+<pre><code>baseurl = &quot;/computational-demography/&quot; # all urls should be relative to this. use &quot;/&quot; if it's a base domain
+title = &quot;Computational Demography&quot; # this will show as the site's title in a web browser
+</code></pre>
+
 <p>We can use the config options to turn off different parts of the main webpage. If you want to get fancy, there are ways to edit the layout templates and rearrange or customize sections.</p>
 
 <p>Before we&rsquo;re done, we&rsquo;ll want to clean up the example blog posts. I also find it helpful sometimes to just delete the <code>public</code> folder and regenerate it (with <code>serve_site</code> or <code>build_site</code>). Finally, so it plays nicely with GitHub, we actually need to rename the <code>public</code> folder. To do this, in config.toml:</p>

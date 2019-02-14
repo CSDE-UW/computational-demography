@@ -59,6 +59,13 @@ Use the "Serve Site" RStudio addin to preview the site! Or run in the console:
 blogdown::serve_site()
 ```
 
+That way, you can see changes as you make them. You might need to refresh your web browser. Some common & important config options: 
+
+```
+baseurl = "/computational-demography/" # all urls should be relative to this. use "/" if it's a base domain
+title = "Computational Demography" # this will show as the site's title in a web browser
+```
+
 We can use the config options to turn off different parts of the main webpage. If you want to get fancy, there are ways to edit the layout templates and rearrange or customize sections.
 
 Before we're done, we'll want to clean up the example blog posts. I also find it helpful sometimes to just delete the `public` folder and regenerate it (with `serve_site` or `build_site`). Finally, so it plays nicely with GitHub, we actually need to rename the `public` folder. To do this, in config.toml:
