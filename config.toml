@@ -64,7 +64,7 @@ publishDir = "docs"
 
 	[params.portfolio]
 		hide  = true
-		title = "Recent Work"
+		title = "Projects"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
@@ -106,11 +106,11 @@ publishDir = "docs"
 
 	[params.recentposts]
 		hide  = false
-		title = "Recent blog posts"
+		title = "Recent meetings"
 
 	[params.contact]
 		hide  = false
-		title = "Join Us!"
+		title = "Join us!"
 		content = "Join the Computational Demography [mailing list](https://mailman12.u.washington.edu/mailman/listinfo/computational-demog) for news and updates."
 
 		# This can be exact coordinates or a searchable address in google maps
