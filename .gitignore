@@ -1,1 +1,5 @@
+# Remove R objects from git tracking
 .Rproj.user/
+.Rproj.user
+*.Rhistory
+

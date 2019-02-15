@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/computational-demography/post/populating-the-globe-with-worldpop/</loc>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/computational-demography/</loc>
     <lastmod>2019-02-14T00:00:00+00:00</lastmod>
   </url>
@@ -20,6 +25,12 @@
   
   <url>
     <loc>/computational-demography/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/tags/data-source/</loc>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -38,6 +49,12 @@
   <url>
     <loc>/computational-demography/tags/</loc>
     <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/categories/technical-talk/</loc>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

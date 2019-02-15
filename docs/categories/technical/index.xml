@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical on Computational Demography @UW</title>
+    <link>/computational-demography/categories/technical/</link>
+    <description>Recent content in Technical on Computational Demography @UW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/computational-demography/categories/technical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Populating the Globe with Worldpop</title>
+      <link>/computational-demography/post/populating-the-globe-with-worldpop/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/computational-demography/post/populating-the-globe-with-worldpop/</guid>
+      <description>This week&amp;rsquo;s meeting of the CSDE-CWG was led by Nathan Welch from the Department of Statistics here at the University of Washington. Nathan walked us through his experience attending the Inaugural WorldPop Winter School.</description>
+    </item>
+    
+  </channel>
+</rss>

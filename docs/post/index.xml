@@ -22,5 +22,15 @@ Several kinds of websites can be useful for this:
  a personal academic homepage a page for a specific research project a website for a course a website for a working group or seminar (like CDWG!)  Key ideas You can make a website without knowing much or any html/css; there are tools that let you do a lot in plain text and R instead.</description>
     </item>
     
+    <item>
+      <title>Populating the Globe with World Pop</title>
+      <link>/computational-demography/post/populating-the-globe-with-worldpop/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/computational-demography/post/populating-the-globe-with-worldpop/</guid>
+      <description>This week&amp;rsquo;s meeting of the CSDE-CWG was led by Nathan Welch from the Department of Statistics here at the University of Washington. Nathan walked us through his experience attending the Inaugural WorldPop Winter School, a brief course that looks to introduce students, government workers, and NGO employees on the resources the resources produced by World Pop.
+The Agenda of World Pop As stated on the Word Pop website the goal of the World Pop organization are to &amp;ldquo;Meet the needs of [contemporary data on human population distributions] through the provision of detailed and open-access population distribution dataset built using transparent approaches.</description>
+    </item>
+    
   </channel>
 </rss>
