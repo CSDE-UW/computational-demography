@@ -155,3 +155,6 @@ publishDir = "docs"
 	name = "Blog"
 	url  = "post/"
 	weight = 0
+	
+[taxonomies]
+  author = "author"
