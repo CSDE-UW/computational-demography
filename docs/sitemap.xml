@@ -3,13 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/computational-demography/post/text4demog/</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/computational-demography/post/making-a-research-website/</loc>
     <lastmod>2019-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/computational-demography/post/worldpop/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/post/roundtable-fb-ads/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/post/git-github-workflows/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/computational-demography/</loc>
-    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -25,7 +45,7 @@
   
   <url>
     <loc>/computational-demography/post/</loc>
-    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
