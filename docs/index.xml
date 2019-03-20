@@ -6,10 +6,22 @@
     <description>Recent content on Computational Demography @UW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/computational-demography/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Text Analysis for Demography</title>
+      <link>/computational-demography/post/text4demog/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/computational-demography/post/text4demog/</guid>
+      <description>On March 7, 2019, Ian Kennedy, a graduate student from Sociology, led a tutorial and discussion about analyzing text data for demographic research.
+Based on his research projects using data from Craigslist and Twitter, he presented on applications of keyword matching, n-gram regression, topic modeling, and word embeddings.
+The RMarkdown and Jupyter notebooks for his tutorial can be found on GitHub at the following repository:
+https://github.com/ikennedy240/text4demog</description>
+    </item>
     
     <item>
       <title>Making a Research Website</title>
@@ -20,6 +32,34 @@
       <description>Why make a website? Academic researchers need to communicate their work!
 Several kinds of websites can be useful for this:
  a personal academic homepage a page for a specific research project a website for a course a website for a working group or seminar (like CDWG!)  Key ideas You can make a website without knowing much or any html/css; there are tools that let you do a lot in plain text and R instead.</description>
+    </item>
+    
+    <item>
+      <title>WorldPop</title>
+      <link>/computational-demography/post/worldpop/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/computational-demography/post/worldpop/</guid>
+      <description>On January 31, 2019, Nathan Welch, a graduate student in Statistics, led a stimulating discussion about the value and uses of the WorldPop project. WorldPop is an open-data resource for spatial demographics.</description>
+    </item>
+    
+    <item>
+      <title>Roundtable on Facebook Ads</title>
+      <link>/computational-demography/post/roundtable-fb-ads/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/computational-demography/post/roundtable-fb-ads/</guid>
+      <description>On December 6, 2018, CDWG held a roundtable on using Facebook advertising platform data for demographic research. Three UW graduate students with active projects using Facebook ads data led the conversation:
+Lee Fiorio (geography) investigates the possibility of combining traditional data on migrants with estimates of migrants from Facebook Ads to produce more detailed cross-tabulations than available from traditional data sources. Using data from Facebook Ads as the seed, he uses Iterative Proportional Fitting to estimate a three-dimensional cross tabulation (migrant stocks by age by sex) from UN-published migrant data.</description>
+    </item>
+    
+    <item>
+      <title>Git and GitHub Workflows for Research</title>
+      <link>/computational-demography/post/git-github-workflows/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/computational-demography/post/git-github-workflows/</guid>
+      <description>For our first meeting of the 2018-2019 academic year, on November 15, Tim Thomas led a workshop on git and GitHub workflows for demographic research. Tim is a data science postdoc at the eScience Institute and in Sociology.</description>
     </item>
     
   </channel>
