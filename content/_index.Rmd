@@ -4,4 +4,8 @@
 ## Upcoming meetings
 
 <br>
-**2019-06-06: Final meeting of 2018-2019.** We'll hold a roundtable discussion looking back on computational demography this year and looking forward toward ideas for the coming year. *12:30-1:30, Raitt 114*.
+**2019-10-10: Differential Privacy, the US Census, and What It Means For Policy Makers and Social Science Researchers.** Neal Marquez and Lee Fiorio will present on the Census Bureau's proposed implementation of differential privacy, its potential benefits, and their own concerns for spatial analysis with a noise-injected Census product.
+
+**2019-10-31: topic TBA.**
+
+**2019-11-21: topic TBA.**

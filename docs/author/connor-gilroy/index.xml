@@ -6,10 +6,19 @@
     <description>Recent content in Connor Gilroy on Computational Demography @UW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/computational-demography/author/connor-gilroy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Discussion and Looking Forward</title>
+      <link>/computational-demography/post/discussion-and-looking-forward/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/computational-demography/post/discussion-and-looking-forward/</guid>
+      <description>At the final meeting of the 2018-2019 academic year, we brainstormed ideas for the coming year. We discussed potential speakers, including incoming UW faculty, substantive topics of relevance to the group, and technical topics for tutorials. One idea that emerged was having a series of tutorials throughout the year on creating an R package of benefit to academic researchers. Many participants felt that a package implementing common tools for working with neighborhood-level spatial data would be useful to us, since we often build those tools on our own in an ad-hoc way.</description>
+    </item>
     
     <item>
       <title>Making a Research Website</title>
