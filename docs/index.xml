@@ -6,10 +6,20 @@
     <description>Recent content on Computational Demography @UW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/computational-demography/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Differential Privacy and the US Census</title>
+      <link>/computational-demography/post/differential-privacy-census/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/computational-demography/post/differential-privacy-census/</guid>
+      <description>Lee Fiorio (Geography) presented joint work with Neal Marquez (Sociology) on the implications of differential privacy in the 2020 US Census for policy and social science research:
+ In an attempt to better safeguard the information that Census Bureau collects from the public, the Bureau has committed to deploy a variation of differential privacy on the 2020 Census and all census products moving forward. This noise injection process has the potential to better protect the private information of individuals, however, the cost to accuracy of statistical measures is not well understood.</description>
+    </item>
     
     <item>
       <title>Discussion and Looking Forward</title>

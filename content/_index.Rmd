@@ -4,8 +4,6 @@
 ## Upcoming meetings
 
 <br>
-**2019-10-10: Differential Privacy, the US Census, and What It Means For Policy Makers and Social Science Researchers.** Neal Marquez and Lee Fiorio will present on the Census Bureau's proposed implementation of differential privacy, its potential benefits, and their own concerns for spatial analysis with a noise-injected Census product.
-
-**2019-10-31: topic TBA.**
+**2019-10-31: Bo Zhao, Department of Geography.**
 
 **2019-11-21: topic TBA.**
