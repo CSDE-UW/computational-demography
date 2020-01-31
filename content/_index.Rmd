@@ -4,6 +4,6 @@
 ## Upcoming meetings
 
 <br>
-**2019-10-31: Bo Zhao, Department of Geography.** Dr. Zhao will introduce the concept and development of geo-narratology, and its relevance to some of his recent geovisualization work. 
+**2020-02-05: Neal Marquez and Connor Gilroy.** Tidycensus tutorial *(meeting will be held in Raitt 223)*
 
-**2019-11-21: topic TBA.**
+**2020-02-27: Emanuela Furfaro.** 

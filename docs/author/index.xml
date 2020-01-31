@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Computational Demography @UW</title>
@@ -6,19 +6,10 @@
     <description>Recent content in Author on Computational Demography @UW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/computational-demography/author/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>/computational-demography/author/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/computational-demography/author/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Connor Gilroy</title>
@@ -27,10 +18,6 @@
       
       <guid>/computational-demography/author/connor-gilroy/</guid>
       <description></description>
-    </item>
-    
-  </channel>
-</rss>the Bureau has committed to deploy a variation of differential privacy on the 2020 Census and all census products moving forward. This noise injection process has the potential to better protect the private information of individuals, however, the cost to accuracy of statistical measures is not well understood.</description>
     </item>
     
   </channel>

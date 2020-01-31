@@ -23,7 +23,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		
 		
 
-		<meta name="generator" content="Hugo 0.54.0" />
+		<meta name="generator" content="Hugo 0.62.2" />
 
 		<!--[if lte IE 8]><script src='/computational-demography/js/ie/html5shiv.js'></script><![endif]-->
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -41,7 +41,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 	<a href="/computational-demography/" class="image avatar"><img src="/computational-demography/images/avatar.png" alt="" /></a>
 	
 	
-		<h1><strong>Computational Demography<br> Working Group</strong><br> University of Washington</h1>
+		<h1><strong>Computational Demography<!-- raw HTML omitted --> Working Group</strong><!-- raw HTML omitted --> University of Washington</h1>
 	
 
 	
@@ -107,120 +107,72 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 	</span>
 
 	<p>
-	    
-
-<h2 id="why-make-a-website">Why make a website?</h2>
-
-<p>Academic researchers need to communicate their work!<br />
+	    <h2 id="why-make-a-website">Why make a website?</h2>
+<p>Academic researchers need to communicate their work!<br>
 Several kinds of websites can be useful for this:</p>
-
 <ul>
 <li>a personal academic homepage</li>
 <li>a page for a specific research project</li>
 <li>a website for a course</li>
 <li>a website for a working group or seminar (like CDWG!)</li>
 </ul>
-
 <h2 id="key-ideas">Key ideas</h2>
-
 <p>You can make a website without knowing much or any html/css; there are tools that let you do a lot in plain text and R instead.</p>
-
-<p>You don&rsquo;t have to use a blogging platform like Wordpress or paid platforms like Squarespace either. Simple websites, or entire blogs, can be created with <em>static site generators</em>. The one blogdown uses is called <a href="https://gohugo.io/">Hugo</a>. There are others, like Jekyll (in Ruby) and Pelican (in Python), but we&rsquo;ll stick with Hugo.</p>
-
-<p>Once you&rsquo;ve generated your site on your computer, you then need to host the html files on a server somewhere. If you&rsquo;re keeping the site code on GitHub, the files are already there, so you just have to turn on GitHub Pages for your repository.</p>
-
+<p>You don't have to use a blogging platform like Wordpress or paid platforms like Squarespace either. Simple websites, or entire blogs, can be created with <em>static site generators</em>. The one blogdown uses is called <a href="https://gohugo.io/">Hugo</a>. There are others, like Jekyll (in Ruby) and Pelican (in Python), but we'll stick with Hugo.</p>
+<p>Once you've generated your site on your computer, you then need to host the html files on a server somewhere. If you're keeping the site code on GitHub, the files are already there, so you just have to turn on GitHub Pages for your repository.</p>
 <h2 id="plan">Plan</h2>
-
 <ul>
 <li>Make a CDWG website in blogdown</li>
 <li>Host it on GitHub Pages</li>
 </ul>
-
 <h2 id="make-a-website">Make a website</h2>
-
-<p>Install the blogdown package in R; let it install Hugo if you don&rsquo;t have it already:</p>
-
+<p>Install the blogdown package in R; let it install Hugo if you don't have it already:</p>
 <pre><code>install.packages(&quot;blogdown&quot;)
-</code></pre>
-
-<p>Then create a new R project. You can create this project <em>as</em> a blogdown website (scroll down to see the option), or you can set up the site from the console:</p>
-
+</code></pre><p>Then create a new R project. You can create this project <em>as</em> a blogdown website (scroll down to see the option), or you can set up the site from the console:</p>
 <pre><code>blogdown::new_site(theme = &quot;digitalcraftsman/hugo-strata-theme&quot;)
-</code></pre>
-
-<p>We&rsquo;ll use the <a href="https://themes.gohugo.io/strata/">Strata theme</a> for CDWG. For a personal page, I&rsquo;d recommend <a href="https://themes.gohugo.io/academic/">Academic</a> or <a href="https://themes.gohugo.io/finite/">Finite</a>. (Don&rsquo;t do what I did and pick a random theme that looks pretty and try to hack it for your own purposes&hellip;)</p>
-
-<p>Open up config.toml; every theme will have different config options (that&rsquo;s the sad part). Change things like the bio, social media handles, and contact info.</p>
-
+</code></pre><p>We'll use the <a href="https://themes.gohugo.io/strata/">Strata theme</a> for CDWG. For a personal page, I'd recommend <a href="https://themes.gohugo.io/academic/">Academic</a> or <a href="https://themes.gohugo.io/finite/">Finite</a>. (Don't do what I did and pick a random theme that looks pretty and try to hack it for your own purposes&hellip;)</p>
+<p>Open up config.toml; every theme will have different config options (that's the sad part). Change things like the bio, social media handles, and contact info.</p>
 <p>Also update the avatar (avatar.jpg) and background image (bg.jpg). These go in <code>static/images</code>.</p>
-
 <p>Use the &ldquo;Serve Site&rdquo; RStudio addin to preview the site! Or run in the console:</p>
-
 <pre><code>blogdown::serve_site()
-</code></pre>
-
-<p>That way, you can see changes as you make them. You might need to refresh your web browser. Some common &amp; important config options:</p>
-
+</code></pre><p>That way, you can see changes as you make them. You might need to refresh your web browser. Some common &amp; important config options:</p>
 <pre><code>baseurl = &quot;/computational-demography/&quot; # all urls should be relative to this. use &quot;/&quot; if it's a base domain
 title = &quot;Computational Demography @UW&quot; # this will show as the site's title in a web browser
-</code></pre>
-
-<p>We can use the config options to turn off different parts of the main webpage. If you want to get fancy, there are ways to edit the layout templates and rearrange or customize sections.</p>
-
-<p>Before we&rsquo;re done, we&rsquo;ll want to clean up the example blog posts. I also find it helpful sometimes to just delete the <code>public</code> folder and regenerate it (with <code>serve_site</code> or <code>build_site</code>). Finally, so it plays nicely with GitHub, we actually need to rename the <code>public</code> folder. To do this, in config.toml:</p>
-
+</code></pre><p>We can use the config options to turn off different parts of the main webpage. If you want to get fancy, there are ways to edit the layout templates and rearrange or customize sections.</p>
+<p>Before we're done, we'll want to clean up the example blog posts. I also find it helpful sometimes to just delete the <code>public</code> folder and regenerate it (with <code>serve_site</code> or <code>build_site</code>). Finally, so it plays nicely with GitHub, we actually need to rename the <code>public</code> folder. To do this, in config.toml:</p>
 <pre><code>publishDir = &quot;docs&quot;
-</code></pre>
-
-<h2 id="host-the-website">Host the website</h2>
-
+</code></pre><h2 id="host-the-website">Host the website</h2>
 <p>First, we need to make the project directory into a git repo and commit everything. The most important thing is the <code>docs</code> folder; this is where the generated static html files live.</p>
-
 <p>Then we go to GitHub and create a corresponding repository there. We link up our local repo and push the files up to GitHub.</p>
-
 <p>At the GitHub repo, we go to Settings and down to GitHub Pages. We turn on Pages and point it to the <code>docs</code> folder. Wait a few minutes, and the website should go live.</p>
-
 <p>Now we go to <a href="https://csde-uw.github.io/computational-demography">https://csde-uw.github.io/computational-demography</a>. Et voilà!</p>
-
-<p>Side note: it&rsquo;s a good idea to tell GitHub pages that this <em>isn&rsquo;t</em> a Jekyll website. How? By creating a blank file called .nojekyll in the website folder:</p>
-
+<p>Side note: it's a good idea to tell GitHub pages that this <em>isn't</em> a Jekyll website. How? By creating a blank file called .nojekyll in the website folder:</p>
 <pre><code>cd docs
 touch .nojekyll
 git add .nojekyll
 git commit -m &quot;We're using Hugo, not Jekyll, as our static site generator&quot;
 git push
-</code></pre>
-
-<h2 id="examples">Examples</h2>
-
-<p><br>
-My personal academic website:</p>
-
+</code></pre><h2 id="examples">Examples</h2>
+<!-- raw HTML omitted -->
 <ul>
 <li><a href="https://students.washington.edu/cgilroy/">https://students.washington.edu/cgilroy/</a></li>
 <li>source: <a href="https://github.com/ccgilroy/ccgilroy">https://github.com/ccgilroy/ccgilroy</a></li>
 <li>made with <a href="https://bookdown.org/yihui/blogdown/">blogdown</a>; hosted on <a href="https://itconnect.uw.edu/connect/web-publishing/shared-hosting/">UW servers</a></li>
 </ul>
-
 <p>My comprehensive exam reading list:</p>
-
 <ul>
 <li><a href="https://ccgilroy.github.io/gilroy-reading-list/">https://ccgilroy.github.io/gilroy-reading-list/</a></li>
 <li>source: <a href="https://github.com/ccgilroy/gilroy-reading-list">https://github.com/ccgilroy/gilroy-reading-list</a></li>
 <li>made with <a href="https://bookdown.org/">bookdown</a>; hosted on <a href="https://pages.github.com/">GitHub Pages</a>.</li>
 </ul>
-
 <p>GeoHackWeek 2019:</p>
-
 <ul>
 <li><a href="https://geohackweek.github.io/">https://geohackweek.github.io/</a></li>
 <li>source: <a href="https://github.com/geohackweek/geohackweek.github.io">https://github.com/geohackweek/geohackweek.github.io</a></li>
 <li>made with Jekyll, hosted on GitHub Pages.</li>
 </ul>
-
 <h2 id="resources">Resources</h2>
-
-<p>Blogdown &ldquo;tweetorial&rdquo; by Dan Quintana: <a href="https://twitter.com/dsquintana/status/993410504570888192">https://twitter.com/dsquintana/status/993410504570888192</a><br />
+<p>Blogdown &ldquo;tweetorial&rdquo; by Dan Quintana: <a href="https://twitter.com/dsquintana/status/993410504570888192">https://twitter.com/dsquintana/status/993410504570888192</a><br>
 Kieran Healy on Hugo: <a href="https://kieranhealy.org/blog/archives/2014/02/24/powered-by-hugo/">https://kieranhealy.org/blog/archives/2014/02/24/powered-by-hugo/</a></p>
 
 	</p>
@@ -250,7 +202,7 @@ Kieran Healy on Hugo: <a href="https://kieranhealy.org/blog/archives/2014/02/24/
 
 	<ul class="copyright">
 		
-		<li>&copy; <a href="//csde.washington.edu">CSDE</a></li>
+		<li>© <a href="//csde.washington.edu">CSDE</a></li>
 		
 		<li>Design: <a href="//html5up.net">HTML5 UP</a></li>
 		

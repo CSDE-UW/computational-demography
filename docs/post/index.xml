@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Computational Demography @UW</title>
@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Computational Demography @UW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/computational-demography/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Geonarratology and Geovisualization</title>
+      <link>/computational-demography/post/geonarratology-and-geovisualization/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/computational-demography/post/geonarratology-and-geovisualization/</guid>
+      <description>Dr. Bo Zhao, from the Department of Geography, introduced the concept and development of geo-narratology, and its relevance to some of his recent geovisualization work.
+Dr. Zhao demoed work from projects including
+ Sea-Level Induced Migration (http://geoviz.ceoas.oregonstate.edu/slr) Global Refugee Atlas (https://geoviz.ceoas.oregonstate.edu/refugee/) Stand with #StandingRock (https://geoviz.ceoas.oregonstate.edu/standwithstandingrock/).  </description>
+    </item>
     
     <item>
       <title>Differential Privacy and the US Census</title>
