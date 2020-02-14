@@ -4,6 +4,4 @@
 ## Upcoming meetings
 
 <br>
-**2020-02-05: Neal Marquez and Connor Gilroy.** Tidycensus tutorial *(meeting will be held in Raitt 223)*
-
-**2020-02-27: Emanuela Furfaro.** 
+s**2020-02-27: Emanuela Furfaro.** 
