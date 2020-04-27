@@ -4,4 +4,8 @@
 ## Upcoming meetings
 
 <br>
-**2020-02-27: Emanuela Furfaro.** Network models of migration flows to Western Europe.
+**2020-04-30: Chuck Lanfear.** Safe Graph Mobility Data.
+
+The computational demography working group will meet virtually this quarter! Please join us on __Thursday, 4/30, at 12pm__ for a presentation and discussion of __SafeGraph Mobility Data__. Sociology graduate student Chuck Lanfear will demonstrate a digital trace data set for mobility research obtained by Adrian Dobra of UW Statistics and CS&SS. They are soliciting new project and collaborations ideas for these unique data.
+
+The meeting will be hosted over Zoom. Register for the working group meeting at [this link](https://washington.zoom.us/meeting/register/tJUlde2spzwuE9y6AgRXQaWAYzIA8WsP77xZ).

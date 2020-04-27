@@ -6,10 +6,21 @@
     <description>Recent content on Computational Demography @UW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/computational-demography/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Migration Networks</title>
+      <link>/computational-demography/post/migration-networks/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/computational-demography/post/migration-networks/</guid>
+      <description>Emanuela Furfaro presented her work on accounting for immigration policies in the analysis of migration networks.
+Here&amp;rsquo;s the abstract for Emanuela&amp;rsquo;s presentation:
+In this work, we apply statistical network models to study the effects of macro factors on determining international migration flows from developing countries to a group of selected Western European countries. Besides the traditional pull and push effects, gravity-related variables and cultural similarities, we investigate the role of immigration policies in explaining the network structure.</description>
+    </item>
     
     <item>
       <title>Tidycensus Tutorial</title>
