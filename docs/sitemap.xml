@@ -4,77 +4,122 @@
   
   <url>
     <loc>/computational-demography/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/computational-demography/author/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/computational-demography/post/migration-networks/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <loc>/computational-demography/author/zack-almquist/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/computational-demography/author/neal-marquez/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <loc>/computational-demography/post/welcome/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/computational-demography/post/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/computational-demography/author/connor-gilroy/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <loc>/computational-demography/post/welcome/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/computational-demography/post/tidycensus-tutorial/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <loc>/computational-demography/post/welcome/</loc>
+    <lastmod>2020-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/computational-demography/post/geonarratology-and-geovisualization/</loc>
-    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+    <loc>/computational-demography/post/welcome/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/computational-demography/post/differential-privacy-census/</loc>
-    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+    <loc>/computational-demography/post/welcome/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/computational-demography/post/discussion-and-looking-forward/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <loc>/computational-demography/post/welcome/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/computational-demography/post/text4demog/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <loc>/computational-demography/post/research-plans/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/computational-demography/post/making-a-research-website/</loc>
-    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+    <loc>/computational-demography/post/2020-10-19-tbd/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/computational-demography/post/worldpop/</loc>
-    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    <loc>/computational-demography/post/data-science-talk/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/computational-demography/post/roundtable-fb-ads/</loc>
-    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+    <loc>/computational-demography/categories/bb/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/computational-demography/post/git-github-workflows/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+    <loc>/computational-demography/categories/rt/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/categories/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/post/welcome/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/categories/pd/</loc>
+    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/categories/other/</loc>
+    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/categories/ws/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/categories/brown-bag/</loc>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/categories/professional-development/</loc>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/categories/research-talks/</loc>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/faculty/</loc>
+  </url>
+  
+  <url>
+    <loc>/computational-demography/sponsors/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,17 @@
+---
+---
+
+## Faculty Sponsors
+
+**CDWG Coordinator:** Zack W. Almquist, Assistant Professor of Sociology and Senior Data Science Fellow, eScience Institute & Core Training Director CSDE
+
+
+* Sara Curran,  Professor of International Studies, Sociology, Public Policy and Governance & Director of CSDE
+* Tyler H. McCormick, Associate Professor of Sociology and Statistics, Senior Data Science Fellow at the eScience Institute
+* Jon Wakfield, Professor of Statistics and Biostatistics
+* Kyle Crowder, Blumstein-Jordon Professor of Sociology & CSDE Science Core Director 
+* Steven Goodreau, Professor of Anthropology & CSDE Development Core Director
+* Adrian Dobra, Professor of Statistics & Core Faculty CSSS
+* Mark Ellis, Professor of Geography
+* Nathalie Williams, Associate Professor of Sociology and The Henry M. Jackson School of International Studies 
+* Adrian Raftery, Boeing International Professor of Statistics and Sociology & CSDE Affiliate 

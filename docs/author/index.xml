@@ -1,32 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Author on Computational Demography @UW</title>
+    <title>Computational Demography @UW</title>
     <link>/computational-demography/author/</link>
-    <description>Recent content in Author on Computational Demography @UW</description>
+    <description>Recent content on Computational Demography @UW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/computational-demography/author/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/computational-demography/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Neal Marquez</title>
-      <link>/computational-demography/author/neal-marquez/</link>
-      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/computational-demography/author/zack-almquist/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/author/neal-marquez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Connor Gilroy</title>
-      <link>/computational-demography/author/connor-gilroy/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/computational-demography/author/connor-gilroy/</guid>
-      <description></description>
+      <guid>/computational-demography/author/zack-almquist/</guid>
+      <description>Zack W Almquist</description>
     </item>
     
   </channel>

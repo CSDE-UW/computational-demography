@@ -9,11 +9,11 @@
       <i class="fa fa-user-circle"></i>&nbsp;&nbsp;
       {{ if isset .Params.author -1 }}
         {{ range $k, $v := .Params.author }}
-        <a class="article-category-link" href="{{ $.Site.BaseURL }}author/{{ . | urlize | lower }}">{{ . }}</a>
+        <a class="article-category-link" href="{{ $.Site.BaseURL }}author/{{ . | urlize | lower }}/">{{ . }}</a>
         {{ if lt $k (sub $authorLen 1) }}&middot;{{ end }}
         {{ end }}
       {{ else }}
-        <a class="article-category-link" href="{{ $.Site.BaseURL }}author/{{ .Params.author | urlize | lower }}">{{ .Params.author }}</a>
+        <a class="article-category-link" href="{{ $.Site.BaseURL }}author/{{ .Params.author | urlize | lower }}/">{{ .Params.author }}</a>
       {{ end }}
     {{ end }}
 {{ end }}
@@ -23,7 +23,7 @@
     {{ if gt $categoriesLen 0 }}
         &nbsp;&nbsp;<i class="fa fa-folder"></i>&nbsp;&nbsp;
         {{ range $k, $v := .Params.categories }}
-        <a class="article-category-link" href="{{ $.Site.BaseURL }}categories/{{ . | urlize | lower }}">{{ . }}</a>
+        <a class="article-category-link" href="{{ $.Site.BaseURL }}categories/{{ . | urlize | lower }}/">{{ . }}</a>
         {{ if lt $k (sub $categoriesLen 1) }}&middot;{{ end }}
         {{ end }}
     {{ end }}
@@ -34,7 +34,7 @@
    {{ if gt $tagsLen 0 }}
        &nbsp;&nbsp;<i class="fa fa-tags"></i>&nbsp;&nbsp;
        {{ range $k, $v := .Params.tags }}
-       <a class="article-category-link" href="{{ $.Site.BaseURL }}tags/{{ . | urlize | lower }}">{{ . }}</a>
+       <a class="article-category-link" href="{{ $.Site.BaseURL }}tags/{{ . | urlize | lower }}/">{{ . }}</a>
        {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
        {{ end }}
    {{ end }}

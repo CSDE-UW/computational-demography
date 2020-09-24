@@ -51,14 +51,8 @@ publishDir = "docs"
 
 	[params.about]
 		hide  = false
-		title = "About the CDWG"
-		content = """The Computational Demography Working Group (CDWG) at the University of Washington
-              meets several times a quarter to provide an interdisciplinary forum for discussions
-              of digital and computational approaches to demographic research. The workshop
-              features a range of paper presentations, methods demonstrations and software tutorials.
-              The CDWG is sponsored by the Center for Studies in Demography and Ecology and the
-              eScience Institute. We welcome anyone with interest in computational demography,
-              broadly defined!
+		title = "The CDWG"
+		content = """ Meets at 4:30-5:30PM every Monday.
 		          """
 
 
@@ -106,7 +100,7 @@ publishDir = "docs"
 
 	[params.recentposts]
 		hide  = false
-		title = "Recent meetings"
+		title = "Fall Quarter Meetings"
 
 	[params.contact]
 		hide  = false
@@ -152,8 +146,23 @@ publishDir = "docs"
 	weight = 10
 
 [[menu.main]]
-	name = "Blog"
+	name = "Fall Quarter Schedule"
 	url  = "post/"
+	weight = 0
+
+[[menu.main]]
+	name = "Structure"
+	url  = "categories/"
+	weight = 0
+
+[[menu.main]]
+	name = "Sponsors: University"
+	url  = "sponsors/"
+	weight = 0
+	
+[[menu.main]]
+	name = "Sponsors: Faculty"
+	url  = "faculty/"
 	weight = 0
 	
 [taxonomies]

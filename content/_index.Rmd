@@ -1,11 +1,20 @@
 ---
 ---
 
-## Upcoming meetings
+<u>*At present, all meetings are virtual due to COVID-19*</u>
 
-<br>
-**2020-04-30: Chuck Lanfear.** Safe Graph Mobility Data.
+## About
 
-The computational demography working group will meet virtually this quarter! Please join us on __Thursday, 4/30, at 12pm__ for a presentation and discussion of __SafeGraph Mobility Data__. Sociology graduate student Chuck Lanfear will demonstrate a digital trace data set for mobility research obtained by Adrian Dobra of UW Statistics and CS&SS. They are soliciting new project and collaborations ideas for these unique data.
+The Computational Demography Working Group (CDWG) at the University of Washington meets weekly to provide an interdisciplinary forum for discussions of digital and computational approaches to demographic research. The workshop features a range of paper presentations, methods demonstrations, software tutorials and professional development. The CDWG is sponsored by the Center for Studies in Demography and Ecology (CSDE), the eScience Institute and OBSSR T32 Grant #1T32HD101442-01. We welcome anyone with interest in computational demography (broadly defined).
 
-The meeting will be hosted over Zoom. Register for the working group meeting at [this link](https://washington.zoom.us/meeting/register/tJUlde2spzwuE9y6AgRXQaWAYzIA8WsP77xZ).
+## Next Meeting 10/02/2020
+
+Welcome!
+
+## CDWG Coordinator
+[Zack W. Almquist](http://depts.washington.edu/), Assistant Professor of Sociology and Senior Data Science Fellow, eScience Institute & Core Training Director CSDE
+
+
+
+
+
