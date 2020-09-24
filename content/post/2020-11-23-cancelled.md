@@ -2,7 +2,7 @@
 title: Cancelled
 author: Zack Almquist
 date: '2020-11-23'
-slug: welcome
+slug: No meeting
 categories:
   - 
 tags:
