@@ -2,7 +2,7 @@
 title: Last CDWG of the Quarter
 author: Zack Almquist
 date: '2020-12-07'
-slug: welcome
+slug: Last meeting of the year
 categories:
   - Brown Bag
 tags:
