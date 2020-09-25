@@ -6,7 +6,7 @@ disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
-paginate = 5
+paginate = 10
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir = "docs"
 
@@ -144,11 +144,6 @@ publishDir = "docs"
 	name = "Home"
 	url  = "/"
 	weight = 10
-
-[[menu.main]]
-	name = "Fall Quarter Schedule"
-	url  = "post/"
-	weight = 0
 
 [[menu.main]]
 	name = "Structure"
