@@ -8,21 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/computational-demography/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Last CDWG of the Quarter</title>
+      <title>Neal Marquez and Last CDWG of the Quarter Summary</title>
       <link>/computational-demography/post/last-meeting-of-the-year/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/computational-demography/post/last-meeting-of-the-year/</guid>
-      <description>The last meeting will be used to discuss how this quarter went and discuss set up for next quarters CDWG meetings.</description>
+      <description>Neal Marquez
+The last meeting will be used to discuss how this quarter went and discuss set up for next quarters CDWG meetings.</description>
     </item>
     
     <item>
-      <title>TBD</title>
-      <link>/computational-demography/post/2020-11-30-tbd/</link>
+      <title>Open Source GIS Workshop - Phil Hurvitz, CSDE</title>
+      <link>/computational-demography/post/open-source-gis-workshop/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/post/2020-11-30-tbd/</guid>
-      <description></description>
+      <guid>/computational-demography/post/open-source-gis-workshop/</guid>
+      <description>The graphical user interface (GUI) revolutionized geographic information systems (GIS), allowing users to perform substantially more work with far less training than when GIS was completely command-driven. Despite the user-friendliness of GUI-driven GIS applications, there are many instances when GIS functionality is more appropriately code-based, in particular for the purposes of documentation and reproducibility. For many GIS tasks, things have come full circle, from code to GUI and back to code.</description>
     </item>
     
     <item>
@@ -81,10 +82,10 @@
     
     <item>
       <title>Meet a Data Scientist - Ben Hanowell</title>
-      <link>/computational-demography/post/data-science-talk/</link>
+      <link>/computational-demography/post/data-science-talk-ben-hanowell/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/post/data-science-talk/</guid>
+      <guid>/computational-demography/post/data-science-talk-ben-hanowell/</guid>
       <description>Bio Ben Hanowell is an anthropologist, data analyst, and quantitative modeler. His research and entrepreneurship has been funded by the National Science Foundation, National Institute for Child Health and Development, and a Fulbright Scholarship. After getting his Masters in Biocultural Anthropology at University of Washington and almost completing a PhD in the same, he has worked as a data scientist since 2014 at companies including Redfin, A Place for Mom, and AWS.</description>
     </item>
     

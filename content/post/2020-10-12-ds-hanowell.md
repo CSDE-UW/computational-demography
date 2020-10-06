@@ -2,7 +2,7 @@
 title: Meet a Data Scientist - Ben Hanowell
 author: Zack Almquist
 date: '2020-10-12'
-slug: Data Science Talk
+slug: Data Science Talk - Ben Hanowell
 categories:
   - Professional Development
 tags:
