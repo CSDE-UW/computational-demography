@@ -44,12 +44,12 @@
     </item>
     
     <item>
-      <title>Research Talk - Jon Wakefield, TITLE TBD</title>
+      <title>Research Talk - Yunhan Wu and Jon Wakefield, Biostatistics, Estimating Urban/Rural Surfaces over Time in Low- and Middle-Income Countries</title>
       <link>/computational-demography/post/2020-11-09-tbd/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/computational-demography/post/2020-11-09-tbd/</guid>
-      <description></description>
+      <description>Abstract In low- and middle-income countries (LMIC), household surveys are often the most reliable source of information on a range of health and demographic indicators. These surveys typically use stratified two-stage cluster sampling, with stratification by district crossed with urban/rural. The complex design needs to be acknowledged at the analysis stage, and the simplest approach is a weighted analysis, which automatically adjusts for the sampling scheme. Unfortunately, under this approach, estimation is unstable/unfeasible for small areas, and we must turn to a model-based approach with a cluster-level model.</description>
     </item>
     
     <item>
