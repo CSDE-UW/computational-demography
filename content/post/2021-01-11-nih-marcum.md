@@ -1,12 +1,11 @@
 ---
-title: Meet a Data Scientist - Christopher Marcum
+title: TBD
 author: Zack Almquist
 date: '2021-01-11'
-slug: Data Science Talk - Christopher Marcum
+slug:
 categories:
-  - Professional Development
+  - 
 tags:
-  - NIH
+  - 
 ---
 
-**Bio** 
