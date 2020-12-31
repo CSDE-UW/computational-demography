@@ -6,95 +6,95 @@
     <description>Recent content on Computational Demography @UW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/computational-demography/author/zack-almquist/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/computational-demography/author/zack-almquist/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Neal Marquez and Last CDWG of the Quarter Summary</title>
-      <link>/computational-demography/post/last-meeting-of-the-year/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Last CDWG of the Quarter</title>
+      <link>/computational-demography/post/2021-03-08-tbd/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/post/last-meeting-of-the-year/</guid>
-      <description>Brown Bag with Neal Marquez, Sociology - Rise in mobile phone GPS technologies has led to an increase in the production of granular digital-trace data. Previous studies have utilized digital trace data in demographic contexts where other sources are lacking or have often calibrated estimates to traditional data sources. Traditional data sources, however, may be biased, especially for historically data-marginalized populations. In our study we examine how traditional data on commuting, such as LODES, may miss commuting patterns of data-marginalized populations and how digital-trace data from SafeGraph may be used to supplement our understanding of these groups.</description>
+      <guid>/computational-demography/post/2021-03-08-tbd/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Open Source GIS Workshop - Phil Hurvitz, CSDE</title>
-      <link>/computational-demography/post/open-source-gis-workshop/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <title>TBD</title>
+      <link>/computational-demography/post/2021-03-01-tbd/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/post/open-source-gis-workshop/</guid>
-      <description>The graphical user interface (GUI) revolutionized geographic information systems (GIS), allowing users to perform substantially more work with far less training than when GIS was completely command-driven. Despite the user-friendliness of GUI-driven GIS applications, there are many instances when GIS functionality is more appropriately code-based, in particular for the purposes of documentation and reproducibility. For many GIS tasks, things have come full circle, from code to GUI and back to code.</description>
+      <guid>/computational-demography/post/2021-03-01-tbd/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Cancelled</title>
-      <link>/computational-demography/post/no-meeting/</link>
-      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      <title>TBD</title>
+      <link>/computational-demography/post/2021-02-22-tbd/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/post/no-meeting/</guid>
-      <description>No meeting Thanksgiving Holiday week.</description>
+      <guid>/computational-demography/post/2021-02-22-tbd/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Meet a Demographer - Paul Chung, Research Scientist, Facebook</title>
-      <link>/computational-demography/post/data-science-talk/</link>
-      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <title>TBD</title>
+      <link>/computational-demography/post/2021-02-15-tbd/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/post/data-science-talk/</guid>
-      <description>Paul Chung is a Research Scientist at Facebook on the Demography and Survey Science (DSS) Team. His current work involves applying formal demographic and statistical methodology to solve complex online population estimation problems. Prior to Facebook, he consulted for a number of Bay Area &amp;ldquo;civic tech&amp;rdquo; organizations (e.g. Code for America), where he helped carry out research to identify and size new opportunities for improving public access to government programs. Formerly, Paul received his PhD in Sociology and Demography at the University of California, Berkeley, where he studied the link between race differences in mortality, kinship, and incarceration over the life course using a novel combination of lifetable and microsimulation techniques.</description>
+      <guid>/computational-demography/post/2021-02-15-tbd/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Research Talk - Yunhan Wu and Jon Wakefield, Biostatistics, Estimating Urban/Rural Surfaces over Time in Low- and Middle-Income Countries</title>
-      <link>/computational-demography/post/2020-11-09-tbd/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <title>TBD</title>
+      <link>/computational-demography/post/2021-02-08-tbd/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/post/2020-11-09-tbd/</guid>
-      <description>Abstract In low- and middle-income countries (LMIC), household surveys are often the most reliable source of information on a range of health and demographic indicators. These surveys typically use stratified two-stage cluster sampling, with stratification by district crossed with urban/rural. The complex design needs to be acknowledged at the analysis stage, and the simplest approach is a weighted analysis, which automatically adjusts for the sampling scheme. Unfortunately, under this approach, estimation is unstable/unfeasible for small areas, and we must turn to a model-based approach with a cluster-level model.</description>
+      <guid>/computational-demography/post/2021-02-08-tbd/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Meet a Statistician - Laina Mercer, Statistician, CVIA</title>
-      <link>/computational-demography/post/welcome/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <title>TBD</title>
+      <link>/computational-demography/post/2021-02-01-tbd/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/post/welcome/</guid>
-      <description>Bio Laina Mercer is a Statistician in the Center for Vaccine Innovation and Access at PATH where she works on the design, analysis, and statistical oversight of Phase I-IV studies supporting vaccine development for programs seeking FDA approval, WHO prequalification, and/or introduction across disease areas such as COVID-19, Malaria, Polio, Nipah, Typhoid, HPV and others. She was previously a Research Statistician at the Institute for Disease Modeling where she developed and applied statistical methods to support polio eradication, vaccine delivery, and family planning initiatives.</description>
+      <guid>/computational-demography/post/2021-02-01-tbd/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Research Plan Development</title>
-      <link>/computational-demography/post/research-plans/</link>
-      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Meet a Data Scientist - Haema Nilakanta</title>
+      <link>/computational-demography/post/data-science-talk-haema-nilakanta/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/post/research-plans/</guid>
-      <description>This week&amp;rsquo;s meeting will be focused on Research Plan Development and will be led by Christine Leibbrand the Training Director of CSDE and past CSDE Fellow. The research plan will be developed in alignment with NIH K-award type framework. We will reserve one-two meetings a quarter to work on and workshop research plans each quarter.</description>
+      <guid>/computational-demography/post/data-science-talk-haema-nilakanta/</guid>
+      <description>Bio Haema Nilakanta received her PhD from the University of Minnesota, School of Statistics. Her research interests include Monte Carlo theory and methods, computational statistics, network analysis, and statistical applications to public health and population studies. Haema is based in Minneapolis and is currently an AI Scientist for Target.</description>
     </item>
     
     <item>
-      <title>Internship Experience - Connor Gilroy, Sociology</title>
-      <link>/computational-demography/post/2020-10-19-tbd/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Canceled for MLK</title>
+      <link>/computational-demography/post/2021-01-18-tbd/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/post/2020-10-19-tbd/</guid>
-      <description>Bio: Connor Gilroy is a computational sociologist and PhD student in the Department of Sociology at the University Washington. He uses computational methods and diverse data sources to understand community change, visibility, and belonging, with a substantive focus on queer communities and LGBTQ populations. His past and current work has analyzed neighborhood change by linking web and Census data, and has investigated demographic identity disclosure using public social media data. As a quantitative UX research intern at Facebook, he studied participation in new online communities through behavioral data and an on-platform survey.</description>
+      <guid>/computational-demography/post/2021-01-18-tbd/</guid>
+      <description>Canceled for MLK Holiday.</description>
     </item>
     
     <item>
-      <title>Meet a Data Scientist - Ben Hanowell</title>
-      <link>/computational-demography/post/data-science-talk-ben-hanowell/</link>
-      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Meet a Data Scientist - Christopher Marcum</title>
+      <link>/computational-demography/post/data-science-talk-christopher-marcum/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/post/data-science-talk-ben-hanowell/</guid>
-      <description>Bio Ben Hanowell is an anthropologist, data analyst, and quantitative modeler. His research and entrepreneurship has been funded by the National Science Foundation, National Institute for Child Health and Development, and a Fulbright Scholarship. After getting his Masters in Biocultural Anthropology at University of Washington and almost completing a PhD in the same, he has worked as a data scientist since 2014 at companies including Redfin, A Place for Mom, and AWS.</description>
+      <guid>/computational-demography/post/data-science-talk-christopher-marcum/</guid>
+      <description>Bio</description>
     </item>
     
     <item>
       <title>Welcome to CDWG</title>
-      <link>/computational-demography/post/welcome-to-the-first-meeting-of-the-year/</link>
-      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <link>/computational-demography/post/welcome-to-the-first-meeting-of-the-new-year/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/computational-demography/post/welcome-to-the-first-meeting-of-the-year/</guid>
-      <description>The first meeting of CDWG will be used to introduce its members and reboot the working group. A general discussion of the goals of the group as well as upcoming topics in brown bag, professional development, research talks and workshops will be discussed.</description>
+      <guid>/computational-demography/post/welcome-to-the-first-meeting-of-the-new-year/</guid>
+      <description>The first meeting of CDWG will be used to introduce its members and kick of Winter quarter CDWG. A general discussion of the goals of the group as well as upcoming topics in brown bag, professional development, research talks and workshops will be discussed.</description>
     </item>
     
   </channel>
