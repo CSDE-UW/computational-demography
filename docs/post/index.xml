@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/computational-demography/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Last CDWG of the Quarter</title>
+      <title>Last CDWG of the Quarter and Ian Kennedy Workshop on R and sqlite and psql</title>
       <link>/computational-demography/post/2021-03-08-tbd/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/computational-demography/post/2021-03-08-tbd/</guid>
-      <description></description>
+      <description>Abstract</description>
     </item>
     
     <item>
@@ -81,12 +81,12 @@ Bio</description>
     </item>
     
     <item>
-      <title>Workshop on Word embeddings - Connor Gilroy UW</title>
+      <title>Connor Gilroy - Workshop on word embeddings for the social sciences</title>
       <link>/computational-demography/post/2021-01-11-nih-marcum/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/computational-demography/post/2021-01-11-nih-marcum/</guid>
-      <description>Abstract</description>
+      <description>Abstract Word embeddings are a relatively new tool for computational text analysis. This workshop will explain what word embeddings are and give examples of how they have been used in cultural sociology and political science. I&amp;rsquo;ll then demonstrate some of these uses of word embeddings, including methods for word similarity, semantic change over time, document conceptual engagement, and binary concept construction. This hands-on tutorial will draw on in-progress dissertation work examining discourse about &amp;ldquo;community&amp;rdquo; in English.</description>
     </item>
     
     <item>
