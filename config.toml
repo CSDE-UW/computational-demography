@@ -52,7 +52,7 @@ publishDir = "docs"
 	[params.about]
 		hide  = false
 		title = "The CDWG"
-		content = """ Meets at 3:00-4:00PM every Monday.
+		content = """ Meets at 2:00-3:00PM every Wednesday (Virtually).
 		          """
 
 

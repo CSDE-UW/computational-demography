@@ -11,9 +11,6 @@ The Computational Demography Working Group (CDWG) at the University of Washingto
 
 <iframe src="https://calendar.google.com/calendar/embed?src=computational-demogr%40uw.edu&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-## Next Meeting 10/02/2020
-
-Welcome!
 
 ## CDWG Coordinator
 [Zack W. Almquist](http://depts.washington.edu/), Assistant Professor of Sociology and Senior Data Science Fellow, eScience Institute & Core Training Director CSDE
