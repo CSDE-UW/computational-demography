@@ -100,7 +100,7 @@ publishDir = "docs"
 
 	[params.recentposts]
 		hide  = false
-		title = "Spring Quarter Meetings"
+		title = "Fall Quarter Meetings"
 
 	[params.contact]
 		hide  = false
