@@ -52,7 +52,7 @@ publishDir = "docs"
 	[params.about]
 		hide  = false
 		title = "The CDWG"
-		content = """ Meets at 2:00-3:00PM every Wednesday (Virtually).
+		content = """ Meets at 2:00-3:00PM every other Wednesday (Virtually).
 		          """
 
 
@@ -162,3 +162,8 @@ publishDir = "docs"
 	
 [taxonomies]
   author = "author"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
