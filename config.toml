@@ -1,4 +1,4 @@
-baseurl = "/computational-demography/"
+baseurl = "https://csde-uw.github.io/computational-demography/"
 languageCode = "en-us"
 title = "Computational Demography @UW"
 theme = "hugo-strata-theme"

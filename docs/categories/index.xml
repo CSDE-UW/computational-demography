@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Structure of CDWG Events on Computational Demography @UW</title>
-    <link>computational-demography/categories/</link>
+    <link>https://csde-uw.github.io/computational-demography/categories/</link>
     <description>Recent content in Structure of CDWG Events on Computational Demography @UW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="computational-demography/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://csde-uw.github.io/computational-demography/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BB - Brown Bag</title>
-      <link>computational-demography/categories/bb/</link>
+      <link>https://csde-uw.github.io/computational-demography/categories/bb/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>computational-demography/categories/bb/</guid>
+      <guid>https://csde-uw.github.io/computational-demography/categories/bb/</guid>
       <description>BB is group meetings centered around group discussion or workshopping activities. This includes workshopping papers, research ideas, research plans etc. The first week of every quarter will be reserved for graduate students to write up a research plan for their graduate studies and/or updating their previously written plan.</description>
     </item>
     
     <item>
       <title>RT - Research Talk</title>
-      <link>computational-demography/categories/rt/</link>
+      <link>https://csde-uw.github.io/computational-demography/categories/rt/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>computational-demography/categories/rt/</guid>
+      <guid>https://csde-uw.github.io/computational-demography/categories/rt/</guid>
       <description>RT cover any area of current research that is of interest to computational demography (broadly defined).</description>
     </item>
     
     <item>
       <title>PD - Professional Development</title>
-      <link>computational-demography/categories/pd/</link>
+      <link>https://csde-uw.github.io/computational-demography/categories/pd/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>computational-demography/categories/pd/</guid>
+      <guid>https://csde-uw.github.io/computational-demography/categories/pd/</guid>
       <description>PD is group meetings centered around an internal or external speaker who will discuss oppertunities and experiences in academic, industry and non-profit sectors.</description>
     </item>
     
     <item>
       <title>WS - Workshops</title>
-      <link>computational-demography/categories/other/</link>
+      <link>https://csde-uw.github.io/computational-demography/categories/other/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>computational-demography/categories/other/</guid>
+      <guid>https://csde-uw.github.io/computational-demography/categories/other/</guid>
       <description>WS are dedicated to teaching new methods and models in demography and social sciences. This will focus on statistics and computational methods applied to demographic and health problems.</description>
     </item>
     
     <item>
       <title>M - Miscellaneous</title>
-      <link>computational-demography/categories/ws/</link>
+      <link>https://csde-uw.github.io/computational-demography/categories/ws/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>computational-demography/categories/ws/</guid>
+      <guid>https://csde-uw.github.io/computational-demography/categories/ws/</guid>
       <description>M are are uncatagorized activities that relate to Computational Demography.</description>
     </item>
     
