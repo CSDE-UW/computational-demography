@@ -10,3 +10,4 @@ setwd("docs")
 file.create('.nojekyll')
 setwd("..")
 # https://www.r-bloggers.com/2018/02/r-blogdown-setup-in-github-2/
+
