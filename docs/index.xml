@@ -6,25 +6,133 @@
     <description>Recent content on Computational Demography @UW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://csde-uw.github.io/computational-demography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://csde-uw.github.io/computational-demography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emily Pollock, CDC and UW Alumni</title>
+      <link>https://csde-uw.github.io/computational-demography/post/current/2022-02-09/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://csde-uw.github.io/computational-demography/post/current/2022-02-09/</guid>
+      <description>Title: Emily Pollock PHAM/PE Fellow Division of STD Prevention Centers for Disease Control &amp;amp; Prevention
+bio:
+Emily is a former CSDE trainee and completed her PhD in Biological Anthropology at the University of Washington in the summer of 2021 Her dissertation focused on demographic effects on dynamic network model simulations as well as the pros and cons of expedited partner treatment as a prevention method for chlamydia transmission among young adults.</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Record Linkage for Computational Demography, Abraham Flaxman, UW</title>
+      <link>https://csde-uw.github.io/computational-demography/post/current/2022-01-26/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://csde-uw.github.io/computational-demography/post/current/2022-01-26/</guid>
+      <description>Title: Probabilistic Record Linkage for Computational Demography
+Abstract: Data linked between multiple sources can be a powerful resource for population health and social research more broadly. But large databases rarely include a “primary key” on which to linking, and probabilistic record linkage (PRL) is a computational technique that can identify which entities are likely to be the same in databases without a common unique identified. In this meeting, I’ll offer some overview of what PRL has been used for in demography and population health and how it works.</description>
+    </item>
+    
     <item>
       <title>Katherine Nesse, Senior Planner, Community Development, City of Bellevue</title>
-      <link>https://csde-uw.github.io/computational-demography/post/022-01-26/</link>
+      <link>https://csde-uw.github.io/computational-demography/post/current/2022-01-12/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://csde-uw.github.io/computational-demography/post/022-01-26/</guid>
+      <guid>https://csde-uw.github.io/computational-demography/post/current/2022-01-12/</guid>
       <description>Katherine Nesse, Senior Planner, Community Development, City of Bellevue.
 Zoom Registration Link</description>
     </item>
     
     <item>
-      <title>Katherine Nesse, Senior Planner, Community Development, City of Bellevue</title>
-      <link>https://csde-uw.github.io/computational-demography/post/need-to-fix/2022-01-12/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <title>First CDWG Meeting of the year</title>
+      <link>https://csde-uw.github.io/computational-demography/post/fall2021/2021-12-08/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://csde-uw.github.io/computational-demography/post/need-to-fix/2022-01-12/</guid>
-      <description>Katherine Nesse, Senior Planner, Community Development, City of Bellevue.
-Zoom Registration Link</description>
+      <guid>https://csde-uw.github.io/computational-demography/post/fall2021/2021-12-08/</guid>
+      <description>THING
+Zoom Registration Link
+After registering, you will receive a confirmation email containing information about joining the meeting.</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic record linkage, Abraham Flaxman, Associate Professor of Global Health at the Institute for Health Metrics and Evaluation (IHME) at the University of Washington</title>
+      <link>https://csde-uw.github.io/computational-demography/post/fall2021/2021-12-01/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csde-uw.github.io/computational-demography/post/fall2021/2021-12-01/</guid>
+      <description>Description: Data products produced by merging on individuals in two or more databases can be a powerful ingredient in demographic research. I’m starting a new project to build tools for doing this sort of data matching, and I want to tell you about the background and pick your brains about where this work might lead.
+Bio: Abraham Flaxman, PhD, is an Associate Professor of Health Metrics Sciences and Global Health at the Institute for Health Metrics and Evaluation (IHME) at the University of Washington.</description>
+    </item>
+    
+    <item>
+      <title>CANCELED - THANKSGIVING</title>
+      <link>https://csde-uw.github.io/computational-demography/post/fall2021/2021-11-24/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csde-uw.github.io/computational-demography/post/fall2021/2021-11-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter D. Smits, Senior Applied Scientist, Truveta</title>
+      <link>https://csde-uw.github.io/computational-demography/post/fall2021/2021-11-17/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csde-uw.github.io/computational-demography/post/fall2021/2021-11-17/</guid>
+      <description>Bio Peter D. Smits is a Senior Applied Scientist at Truveta, a healthcare data startup based in Seattle. He was previously at Amazon&amp;rsquo;s Advertising division (2020-2021). He holds a PhD from the Committee on Evolutionary Biology, University of Chicago (2017), and was a postdoc at UC Berkeley in Integrative Biology (2017-2019). His training is in paleobiology and macroevolutionary biology; his academic work focused on analyzing macroevolutionary and macroecological patterns in the fossil record.</description>
+    </item>
+    
+    <item>
+      <title>Amanda Cox, Data Editor of The New York Times</title>
+      <link>https://csde-uw.github.io/computational-demography/post/fall2021/2021-11-10/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csde-uw.github.io/computational-demography/post/fall2021/2021-11-10/</guid>
+      <description>Amanda Cox is the data editor of The New York Times. She joined its graphics department in 2005, making charts and maps for the paper and its website. Since 2016, she has been the editor of The Upshot section, which offers an analytical approach to the day’s news.
+She is one of the top data visualizers in the world, as measured by surveys, Malofiej awards, or repeat conference invitations. Her work is admired across disciplines.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to the Population Dynamics Lab with Jessica Godwin, CSDE Interim Training Director</title>
+      <link>https://csde-uw.github.io/computational-demography/post/fall2021/2021-11-03/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csde-uw.github.io/computational-demography/post/fall2021/2021-11-03/</guid>
+      <description>Abstract: Methods and measurement innovation are central to the scientific advancement of population research and demography. Recent advances in computational data science are accelerating those innovations. Population researchers are at the forefront of combining computational data science tools with demographic methods and measures to meet the growing demands for reproducibility and greater accessibility of research products, while also generating scientific innovations. Their work is generating more research products (e.g., code, synthetic data, and visualizations) that are invaluable for the scholarly community, but not routinely or systematically peer-reviewed until much later in a publication process.</description>
+    </item>
+    
+    <item>
+      <title>Jon Agnone, Director of People Analytics, Tableau</title>
+      <link>https://csde-uw.github.io/computational-demography/post/fall2021/2021-10-27/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csde-uw.github.io/computational-demography/post/fall2021/2021-10-27/</guid>
+      <description>Bio Jon Agnone, PhD., is Tableau’s Director of People Analytics. Serving previously as Senior Manager and lead Data Scientist in People Analytics with the Bill &amp;amp; Melinda Gates Foundation for nearly 7 years, Jon helped build out and mature the function over his tenure. Jon is currently an affiliate assistant professor with the University of Washington&amp;rsquo;s Department of Sociology, faculty associate with the University of Washington&amp;rsquo;s Harry Bridges Center for Labor Studies, affiliate faculty at the University of Washington’s eScience Institute, and executive director and co-founder of the Northwest Social Research Group.</description>
+    </item>
+    
+    <item>
+      <title>Ihsan Kahveci, University of Washington. Talking about the Jab - Medical Professionals Expressions of Vaccine Hesitancy Online.</title>
+      <link>https://csde-uw.github.io/computational-demography/post/fall2021/2021-10-20/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csde-uw.github.io/computational-demography/post/fall2021/2021-10-20/</guid>
+      <description>Ihsan Kahveci is a PhD student in Sociology at UW and is a fellow at the Max Planck Institute for Demographic Research this fall.
+Abstract Medical doctors and nurses are one of the most important resources for vaccine information for the American public. When deciding whether or not to get vaccinated people look to medical professionals; they discuss care decisions with medical providers and they look to the opinions that medical professionals post online.</description>
+    </item>
+    
+    <item>
+      <title>Nicholas Irons, University of Washington. Estimating SARS-CoV-2 infections from deaths, confirmed cases, tests, and random surveys.</title>
+      <link>https://csde-uw.github.io/computational-demography/post/fall2021/2021-10-13/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csde-uw.github.io/computational-demography/post/fall2021/2021-10-13/</guid>
+      <description>Paper https://doi.org/10.1073/pnas.2103272118
+Bio Nicholas J. Irons is a PhD student in the Department of Statistics at the University of Washington. His work applies Bayesian statistics to study the social, economic, and health impacts of the COVID-19 pandemic.
+Abstract The novel coronavirus SARS-CoV-2 has infected over 33 million people in the United States. Nationwide, over 600,000 have died in the COVID-19 pandemic, which has necessitated shutdowns of schools and sectors of the economy.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to CDWG</title>
+      <link>https://csde-uw.github.io/computational-demography/post/fall2021/welcome-to-the-first-meeting-of-the-quarter/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://csde-uw.github.io/computational-demography/post/fall2021/welcome-to-the-first-meeting-of-the-quarter/</guid>
+      <description>The first meeting of CDWG will be used to introduce its members and kick of Fall quarter CDWG. A general discussion of the goals of the group as well as upcoming topics in brown bag, professional development, research talks and workshops will be discussed.</description>
     </item>
     
     <item>
